@@ -77,13 +77,3 @@ if (personalMovieDB.count < 10) {
 } else {
     console.log("Произошла ошибка");
 }
-
-let name1 = "John";
-
-function sayHi() {
-  alert("Hi, " + name1);
-}
-
-name1 = "Pete";
-
-sayHi(); 
